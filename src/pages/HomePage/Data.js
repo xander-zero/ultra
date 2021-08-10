@@ -1,0 +1,66 @@
+export const homeObjOne = {
+  lightBg: false,
+  primary: true,
+  lightBg: false,
+  imgStart: "",
+  lightTopLine: true,
+  lighTextDesc: true,
+  buttonLabel: "Get Started",
+  description:
+    "We help business owners increase their revenue. our team of uniqe specialize can help you acheive your business goals",
+  headLine: "Lead Generation Spacialist for Online Businesses",
+  lightText: true,
+  topLine: "Marketing Agency ",
+  img: require("../../assets/images/svg-1.svg").default,
+  alt: "Image",
+  start: "",
+};
+export const homeObjTwo = {
+  lightBg: true,
+  primary: false,
+  imgStart: "start",
+  lightTopLine: false,
+  lighTextDesc: false,
+  buttonLabel: "Get Started",
+  description:
+    "We help business owners increase their revenue. our team of uniqe specialize can help you acheive your business goals",
+  headLine: "Lead Generation Spacialist for Online Businesses",
+  lightText: false,
+  topLine: "Marketing Agency ",
+  img: require("../../assets/images/svg-1.svg").default,
+  alt: "Image",
+  start: "true",
+};
+export const homeObjThree = {
+  lightBg: false,
+  primary: true,
+  lightBg: false,
+  imgStart: "",
+  lightTopLine: true,
+  lighTextDesc: true,
+  buttonLabel: "Get Started",
+  description:
+    "We help business owners increase their revenue. our team of uniqe specialize can help you acheive your business goals",
+  headLine: "Lead Generation Spacialist for Online Businesses",
+  lightText: true,
+  topLine: "Marketing Agency ",
+  img: require("../../assets/images/svg-2.svg").default,
+  alt: "Image",
+  start: "",
+};
+export const homeObjFour = {
+  lightBg: false,
+  primary: false,
+  imgStart: "start",
+  lightTopLine: true,
+  lighTextDesc: true,
+  buttonLabel: "Get Started",
+  description:
+    "We help business owners increase their revenue. our team of uniqe specialize can help you acheive your business goals",
+  headLine: "Lead Generation Spacialist for Online Businesses",
+  lightText: true,
+  topLine: "Marketing Agency ",
+  img: require("../../assets/images/svg-3.svg").default,
+  alt: "Image",
+  start: "true",
+};
